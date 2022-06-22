@@ -1,0 +1,43 @@
+{
+    "token": "OTg4OTMxMDY1Njg5Mjk2OTE2.Gm6oW4.xZ1AWS0Rn3yGWNb_gkrTvjxT_-kDAH4pZt8UUo",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://discord.com/api/webhooks/989208520291405824/kVDMJWM1Sb82H-Swh_sLp7JiikdelKwUFWkNABmhD6Xdn7asoriPaZhUrjLgmPfueXd9": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=207&size_id[]=208&size_id[]=209&catalog[]=2050&brand_id[]=53&brand_id[]=2069&brand_id[]=2319&price_from=2&currency=EUR&status[]=6&status[]=1&status[]=2&price_to=18",
+            "salon": "\ud83d\udc55\u23a5bot-vinted-free"
+        },
+        "https://discord.com/api/webhooks/989208770498400296/yckj9NTGIBqpE_1SLnaEAn7Bg83PG9PPXLjt_ZjfIDJ3Mxs_NkYTgtj8vGVJQxI39Viu": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=207&size_id[]=208&size_id[]=209&catalog[]=2050&price_from=2&currency=EUR&status[]=6&status[]=1&status[]=2&brand_id[]=362&brand_id[]=88&price_to=32",
+            "salon": "\ud83d\udc55\u23a5bot-vinted-free"
+        },
+        "https://discord.com/api/webhooks/989209205187694652/GB915jhAPQSUgKyWDKsiOl3eP6HZT1ug8xBZeU0WaeTpcMUTL73yTcIH_uH8xG4AvN1H": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=207&size_id[]=208&size_id[]=209&catalog[]=76&price_from=2&currency=EUR&status[]=6&status[]=1&status[]=2&brand_id[]=73306&brand_id[]=395367&price_to=40",
+            "salon": "\ud83d\udc55\u23a5bot-vinted-free"
+        },
+        "https://discord.com/api/webhooks/989209848484876298/QcQKWUjtjiVTaj1Adn-n5bmxFYTHco0FyjDoYbsWqEC94RRBcJA5WRDnU8i_q4NAbWCb": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=207&size_id[]=208&size_id[]=209&catalog[]=76&price_from=2&currency=EUR&status[]=6&status[]=1&status[]=2&brand_id[]=73306&brand_id[]=395367&price_to=40&order=newest_first",
+            "salon": "\ud83d\udc55\u23a5bot-vinted-free"
+        },
+        "https://discord.com/api/webhooks/989210053447934064/fzqb0vgjXYO5a0hamhx8matoCYP1Y3dIdy2GBxLJ_64lJ-cJuODWEkxxb6lVgmr9ywQ6": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=207&size_id[]=208&size_id[]=209&catalog[]=76&price_from=2&currency=EUR&status[]=6&status[]=1&status[]=2&order=newest_first&brand_id[]=88&brand_id[]=362&price_to=32",
+            "salon": "\ud83d\udc55\u23a5bot-vinted-free"
+        },
+        "https://discord.com/api/webhooks/989210251930771618/N39Lb6-r_R2UpA2ZAz88b4oLyVDUGaO-gLxbuHcAZ7_iKoLa2POnMKfcRyXa6Ddsb1NU": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=207&size_id[]=208&size_id[]=209&catalog[]=76&price_from=2&currency=EUR&status[]=6&status[]=1&status[]=2&order=newest_first&brand_id[]=53&brand_id[]=2069&price_to=18",
+            "salon": "\ud83d\udc55\u23a5bot-vinted-free"
+        }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "oui",
+        "avis": "oui",
+        "localisation": "oui",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    }
+}
